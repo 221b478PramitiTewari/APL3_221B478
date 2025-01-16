@@ -27,7 +27,7 @@ class Changes
         }
     }
 
-public class JUET{
+public class LE0{
     	public static void main(String[] args) {
 		Changes obj1 = new Changes();
 		
